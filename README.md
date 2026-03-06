@@ -25,14 +25,14 @@ np.histogram()
 
 - Dataset 1
 
-Estimated ground level: 64.32
+Estimated ground level: 61.24968500000003
 
 Histogram of z-values:
 <img width="1425" height="705" alt="image" src="https://github.com/user-attachments/assets/0417cc7a-aceb-46cf-9b7d-79e3c2a624b5" />
 
 - Dataset 2
 
-Estimated ground level: 63.91
+Estimated ground level: 61.26545
 
 Histogram of z-values:
 <img width="1425" height="705" alt="image" src="https://github.com/user-attachments/assets/6d3b4836-3e16-4fa1-8075-5c5c4ec8280c" />
@@ -55,23 +55,25 @@ Steps used in the method:
 
 Dataset 1
 
-Optimal eps value: 1.82
+Optimal eps value: 0.9399207417966629
 
 Elbow plot:
 <img width="1425" height="705" alt="image" src="https://github.com/user-attachments/assets/07d1aaef-e35e-4149-a816-d0d29520537d" />
 
 Cluster visualization:
-<img width="1233" height="1249" alt="image" src="https://github.com/user-attachments/assets/06548f57-3d24-4a6b-bc82-d4a7c08f8d4c" />
+<img width="1425" height="1425" alt="image" src="https://github.com/user-attachments/assets/20b9f605-2e65-4945-a3b4-50b035a1cf15" />
+
 
 - Dataset 2
 
-Optimal eps value: 1.76
+Optimal eps value: 0.8521648900686876
 
 Elbow plot:
 <img width="1425" height="705" alt="image" src="https://github.com/user-attachments/assets/7c17bbb5-aad9-400e-8dda-b67a19c9b096" />
 
 Cluster visualization:
-<img width="1220" height="1249" alt="image" src="https://github.com/user-attachments/assets/d7398b45-52bc-46af-9de1-edd403d3ee4a" />
+<img width="1425" height="1425" alt="image" src="https://github.com/user-attachments/assets/50645300-6d44-49a8-8245-11193cfb79d1" />
+
 
 Tools and Libraries
 
